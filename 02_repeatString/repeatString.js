@@ -12,10 +12,11 @@ const repeatString = function(string, num) {
   
 };
 
-repeatString('hey', 3); // test 1
+/*repeatString('hey', 3); // test 1
 repeatString('hey', 10); // test 2
 repeatString('hey', 1); // test 3
 repeatString('hey', 0); // test 4
 repeatString('hey', -1); // test 5
+*/
 // Do not edit below this line
 module.exports = repeatString;
